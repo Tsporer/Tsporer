@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Tsporer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m Tommy Sporer @Tsporer.
+I’m interested in full-stack software development, and like to create videogames in my freetime.
+I’m currently learning about Website development.
+You can send me an email at tsporer10@gmail.com or you can reach me at 973___ ____.
 
-<!---
-Tsporer/Tsporer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
